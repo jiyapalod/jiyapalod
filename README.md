@@ -8,7 +8,7 @@
 
 ## Get In Touch
 
-- 📧 [Mail](jiyapalod@gmail.com)
+- 📧 Mail: jiyapalod@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jiya-palod-9b9b46285/)
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/jiyapalod)
 - 🖼️ [Instagram](https://www.instagram.com/jiya_palod/?hl=en)
